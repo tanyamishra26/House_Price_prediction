@@ -13,6 +13,7 @@ This project predicts house prices using a simple **Linear Regression** model.
 
 ## 📂 Project Structure
 - house-price-prediction-using-linear-regression.ipynb
+- housin(1).csv
 - README.md
 
 ## 🛠️ Technologies Used
