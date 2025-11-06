@@ -14,7 +14,6 @@ This project predicts house prices using a simple **Linear Regression** model.
 ## 📂 Project Structure
 - house-price-prediction-using-linear-regression.ipynb
 - README.md
-- data/
 
 ## 🛠️ Technologies Used
 Python, NumPy, Pandas, Matplotlib, Scikit-Learn
